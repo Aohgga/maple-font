@@ -78,15 +78,15 @@
     "glyphs": [
       "--complete"
     ],
-    "extra_args": [ "--variable-width-glyphs" ]
+    "extra_args": []
   },
   "cn": {
-    "enable": true,
+    "enable": false,
     "with_nerd_font": true,
     "fix_meta_table": true,
     "clean_cache": false,
-    "narrow": true,
-    "use_hinted": true,
+    "narrow": false,
+    "use_hinted": false,
     "use_static_base_font": true,
     "scale_factor": 1.0
   }
