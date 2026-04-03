@@ -3,7 +3,7 @@
   "family_name": "Maple Mono",
   "use_hinted": true,
   "pool_size": 4,
-  "enable_ligature": false,
+  "enable_ligature": true,
   "ttfautohint_param": {},
   "github_mirror": "github.com",
   "infinite_arrow": null,
@@ -81,7 +81,7 @@
     "extra_args": [ "--variable-width-glyphs" ]
   },
   "cn": {
-    "enable": false,
+    "enable": true,
     "with_nerd_font": true,
     "fix_meta_table": true,
     "clean_cache": false,
